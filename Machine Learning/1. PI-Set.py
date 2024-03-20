@@ -9,7 +9,7 @@ from eli5.sklearn import PermutationImportance
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
-'''PI-Set'''
+'''The PI-Set model'''
 
 # Global font setting
 config = {
